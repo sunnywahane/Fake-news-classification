@@ -1,10 +1,14 @@
 To Execute the program follow the following steps : 
-1.Download the fake-news.ipynb notebook and news.csv dataset.
+1.Download the fake-news.ipynb notebook and news.csv.zip dataset.
+3.Extract the news.csv.zip in the same folder where you have downloaded the notebook.
 2.Open jupyter notebook in your pc. 
 3.Open the fake-news.ipynb file in the notebook. 
 4.In the menu bar click on the Cell option . 
 5.Then Click on 'Run All' option from the dropdown.
+6.It will ask you to enter text from news article ,copy and paste text from the news article in the give space.
+7.Press Submit.
+8.It will tell wheter it's fake or real!!!
 
 REMEMBER : i.Keep the news.csv and the fake-news.ipynb notebook in the same folder else it will not be able to find it. 
-           ii.news.csv is modified by me , the original is train.csv, you have to download 'news.csv' from my github repo.
+           ii.news.csv is modified by me , the original is train.csv, you have to download 'news.csv.zip' from my github repo.
 
